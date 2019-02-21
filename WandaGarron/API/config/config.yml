@@ -1,0 +1,5 @@
+#options in level
+host: todo.ly
+rootPath: /api
+method: get
+code: 200
